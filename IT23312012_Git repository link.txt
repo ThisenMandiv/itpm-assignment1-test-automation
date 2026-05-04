@@ -1,2 +1,1 @@
-playwright
-openpyxl
+https://github.com/ThisenMandiv/itpm-assignment1-test-automation
